@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <img src="https://i.kym-cdn.com/entries/icons/facebook/000/047/940/cat_eating_looking_up.jpg" alt="This is a cat">
+
+    <img src="https://static.wikia.nocookie.net/silly-cat/images/4/4d/Mr._Fresh.png/revision/latest/scale-to-width-down/3000?cb=20240117170647" alt="This is a cat">
+
+    <img src="https://i.guim.co.uk/img/media/7bac867e71985945748304f6790e90440d62a7ba/0_0_4724_3543/master/4724.jpg?width=480&dpr=1&s=none" alt="This is a cat">
+    <img src="https://i.kym-cdn.com/entries/icons/facebook/000/047/940/cat_eating_looking_up.jpg" alt="This is a cat">  
+
+    
+</body>
+</html>
