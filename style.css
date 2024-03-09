@@ -1,0 +1,23 @@
+.sheesh {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; 
+}
+
+.pics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 250px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    position: relative;
+    display: inline;
+    
+}
